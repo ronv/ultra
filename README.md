@@ -16,3 +16,5 @@ Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weig
 - atom feed
 
 ![Screenshot](ultra.png)
+
+# Demo [here](https://ultra-jekyll.netlify.com/)
